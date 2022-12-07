@@ -14,6 +14,7 @@ $nama = "";
 $alamat = "";
 $kelas = "";
 $error = "";
+
 $sukses = "";
 
 // Untuk Edit Data
